@@ -40,35 +40,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: 'Trustsoft s.r.o.',
-    location: 'Prague, Czechia',
-    description:
-      'Front-end Developer. Providing services in the field of information technology services, including administration servers, cloud services, information systems and software development.',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Oct 2024 - Present',
-  },
-  {
-    title: 'Granton s.r.o.',
-    location: 'Prague, Czechia',
-    description:
-      'Front-end Developer. Delivering flawless UI/UX, Frontend Workflow, Architecture & App Development.',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Oct 2024 - Present',
-  },
-  {
-    title: 'WhirrCrew s.r.o.',
-    location: 'Prague, Czechia',
-    description:
-      'Front-end Developer. Responsible for implemntation of accessible and interactive interface. Working on various projects with AI integration.',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Jun 2024 - Present',
-  },
-  {
-    title: 'NAU',
+    title: 'Artelogic',
     location: 'Kyiv, Ukraine',
-    description: `Bachelor's degree in Cybersecurity. The faculty of Cyber Security and Software Engineering.`,
-    icon: React.createElement(BookIcon),
-    date: 'Sep 2022 - Jun 2024',
+    description:
+      'Full Stack Developer. Worked closely with product managers, designers, and other developers to develop React front- end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency.',
+    icon: React.createElement(BriefcaseBusinessIcon),
+    date: 'Mar 2022 - Nov 2024',
+  },
+  {
+    title: 'Brights',
+    location: 'Lyiv, Ukraine',
+    description:
+      'Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API.',
+    icon: React.createElement(BriefcaseBusinessIcon),
+    date: 'Aug 2018 - Jan 2022',
   },
 ] as const;
 
@@ -110,24 +95,8 @@ export const projectsData = [
       'Tailwind',
     ],
     imageUrl: filedriveImg,
-    link: 'https://github.com/bbyc4kes/file-drive',
+    link: 'https://github.com/code-challenge-dev/file-drive',
   },
-  {
-    title: 'Portfolio',
-    description: `Portfolio that you're currently viewing! This project showcases my work and provides information about me.`,
-    tags: [
-      'React',
-      'TypeScript',
-      'Next.js',
-      'Framer Motion',
-      'Cloudinary',
-      'React Email',
-      'Tailwind',
-    ],
-    imageUrl: portfolioImg,
-    link: 'https://github.com/bbyc4kes/portfolio',
-  },
-
   {
     title: 'Surge',
     description:
@@ -143,7 +112,7 @@ export const projectsData = [
       'Tailwind',
     ],
     imageUrl: surgeImg,
-    link: 'https://github.com/bbyc4kes/surge',
+    link: 'https://github.com/code-challenge-dev/surge',
   },
 ] as const;
 

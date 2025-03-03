@@ -46,15 +46,15 @@ export default function About() {
             <div className="text-md relative z-40 flex flex-col gap-3 font-semibold tracking-wide text-primary lg:absolute lg:right-0 lg:top-[27%] lg:block lg:max-w-[580px] lg:text-start lg:text-lg xl:top-1/3 xl:h-[442px] xl:max-w-[650px]">
               <div className="flex h-full flex-col justify-center gap-6">
                 <span>
-                  I&apos;m Front-end developer with expertise in TypeScript,
-                  React & Next.js. Proven ability to deliver user-centered web
-                  applications with a focus on intuitive experiences and user
-                  interaction.
+                  Dynamic Full Stack Developer with 6+ years of experience, excelling in
+                  building scalable and efficient web applications.
+                  Expertise in developing robust front-end solutions using React and crafting
+                  back-end micro-services with Python and Django. 
                 </span>
                 <span>
-                  Seeking for Web Development opportunities where I can leverage
-                  my skills to create meaningful connections between products
-                  and users.
+                  Proven ability to collaborate effectively with cross-functional teams to drive
+                  project success and enhance user experiences. Committed to delivering high-quality
+                  code and innovative solutions in a fast-paced environment.
                 </span>
                 <p className="flex flex-col items-start sm:items-center lg:items-start">
                   <span>So if you are interested,</span>

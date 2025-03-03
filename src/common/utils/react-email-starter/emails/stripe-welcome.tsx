@@ -57,7 +57,7 @@ export const StripeWelcomeEmail = () => (
             need to use your live{" "}
             <Link
               style={anchor}
-              href="https://dashboard.stripe.com/login?redirect=%2Fapikeys"
+              href="https://dashboard.stripe.com/login?redirect=%2Fapikey"
             >
               API keys
             </Link>{" "}
