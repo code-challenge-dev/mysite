@@ -1,7 +1,7 @@
 'use client';
 
 import { useSectionInView } from '@/common/lib/hooks';
-import portfolioImg from '@/../public/images/photo.jpg';
+import portfolioImg from '@/../public/images/photo.png';
 import { smoothScrollTo } from '@/common/lib/utils';
 import SectionDivider from '@/common/components/shared/section-divider';
 import SectionHeading from '@/common/components/shared/section-heading';
@@ -49,7 +49,7 @@ export default function About() {
                   Dynamic Full Stack Developer with 6+ years of experience, excelling in
                   building scalable and efficient web applications.
                   Expertise in developing robust front-end solutions using React and crafting
-                  back-end micro-services with Python and Django. 
+                  back-end micro-services with Python and Django.
                 </span>
                 <span>
                   Proven ability to collaborate effectively with cross-functional teams to drive

@@ -88,7 +88,7 @@ export default function Hero() {
                 </a>
                 <a
                   className="borderBlack flex h-[50px] w-[50px] cursor-pointer items-center justify-center gap-2 rounded-full bg-white p-2 text-gray-700 transition hover:bg-gray-100 hover:text-gray-950 dark:bg-white/10 dark:text-white/60 dark:hover:bg-white/20"
-                  href="https://github.com/code-challenge-dev"
+                  href="https://github.com/weed35937"
                   target="_blank"
                 >
                   <Image
